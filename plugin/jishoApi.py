@@ -1,0 +1,2 @@
+import jisho_api
+
