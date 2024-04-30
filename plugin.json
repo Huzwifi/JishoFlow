@@ -1,12 +1,12 @@
 {
-  "ID": "62EE2B99A29740B2A8CB6B58D067DBD2",
-  "ActionKeyword": "ji",
-  "Name": "Search Jisho",
-  "Description": "Change your Wallpaper Engine Profile",
-  "Author": "Huzwifi",
-  "Version": "0.0.1",
-  "Language": "python",
-  "Website": "https://github.com/Garulf/wallpaper-engine-profile-selector",
-  "IcoPath": "./icon.png",
-  "ExecuteFileName": "run.py"
+    "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword": "hp",
+    "Name": "Hello World Python",
+    "Description": "Python Hello World example plugin",
+    "Author": "Flow Launcher",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
 }
