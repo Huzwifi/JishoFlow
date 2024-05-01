@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from flox import Flox, ICON_APP_ERROR, FLOW_API, WOX_API
+from flox import Flox, utils, clipboard, ICON_BROWSER, ICON_COPY, ICON_APP_ERROR
 import jisho_api
 from urllib.parse import quote
 from jisho_api.kanji import Kanji

@@ -1,6 +1,6 @@
 {
     "ID":"69696969696969696969696969696969696",             
-    "ActionKeyword":"ji",  
+    "ActionKeyword":"shi",  
     "Name":"JishoFlow",           
     "Description":"Jisho for Flow Launcher",    
     "Author":"Huzwifi",         
@@ -8,5 +8,5 @@
     "Language":"python",    
     "Website":"https://github.com/Huzwifi/JishoFlow",        
     "IcoPath": "icon.png",       
-    "ExecuteFileName":"run.py"
+    "ExecuteFileName":"main.py"
   }
