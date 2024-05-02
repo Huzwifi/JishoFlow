@@ -8,5 +8,5 @@
     "Language":"python",    
     "Website":"https://github.com/Huzwifi/JishoFlow",        
     "IcoPath": "icon.png",       
-    "ExecuteFileName":"main.py"
+    "ExecuteFileName":"run.py"
   }

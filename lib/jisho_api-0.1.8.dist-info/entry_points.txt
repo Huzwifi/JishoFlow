@@ -1,0 +1,3 @@
+[console_scripts]
+jisho=jisho_api.cli:make_cli
+

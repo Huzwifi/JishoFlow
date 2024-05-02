@@ -1,0 +1,1 @@
+from lib.jisho_api.kanji.request import Kanji
